@@ -1,0 +1,10 @@
+ipython
+opencv-python
+openai
+requests
+flask
+moviepy
+numpy
+wave
+pydub
+assemblyai
